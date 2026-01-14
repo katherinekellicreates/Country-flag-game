@@ -32,6 +32,7 @@ class GameManager {
         playingGame = true
         goToNextQuestion()
     }
+    
     func loadQuestions() {
         let countries = Data().countries
         if countries.count < 4 {
@@ -60,6 +61,7 @@ class GameManager {
             }
         }
     }
+    
     func goToNextQuestion() {
         if index < questions.count {
             answerSelected = false
