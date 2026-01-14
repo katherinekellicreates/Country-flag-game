@@ -9,7 +9,9 @@ import Foundation
 struct Data {
     let countries = [
         "Angola",
+        "Argentina",
         "Austria",
+        "Azerbaijan",
         "China",
         "England",
         "Estonia",
@@ -19,10 +21,13 @@ struct Data {
         "India",
         "Israel",
         "Italy",
+        "Latvia",
+        "Maldives",
         "Norway",
         "Pakistan",
         "Peru",
         "Saudi Arabia",
+        "Slovakia",
         "South Africa",
         "Spain",
         "Sweden",
